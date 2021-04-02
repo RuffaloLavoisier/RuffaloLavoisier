@@ -1,7 +1,3 @@
-## The name of the womb
-
-A man who doesn't give up, and a curiosity that doesn't fear death.
- 
 ## Who am I
 
 `God gave life-giving power for the earth, which we call coding.`
@@ -13,3 +9,7 @@ IOT device, AUTO-pilot and beneficial hacking
 ## Want
 
 Studying is a break !
+
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc55&theme=radical&layout=compact" />
+</p>
