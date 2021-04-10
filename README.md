@@ -9,3 +9,11 @@ IOT device, AUTO-pilot and beneficial hacking
 ## Want
 
 Studying is a break !
+
+## How to read ?
+
+sample : [type] activity -> [update] add comment README.md.#
+`update` is Give a shine.#
+`add` is new function.#
+`fix` is catch bug.#
+`etc` is other.#
