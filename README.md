@@ -12,11 +12,11 @@ Studying is a break !
 
 ## How to read ?
 
-sample : [type] activity -> [update] add comment README.md.
-`update` is Give a shine.
-`add` is new function.
-`fix` is catch bug.
-`etc` is other.
+sample : [type] activity -> [update] add comment README.md.  
+`update` is Give a shine.  
+`add` is New function.  
+`fix` is Catch bug.  
+`etc` is Other.  
 
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruffalolavoisier&theme=radical&layout=compact" />
