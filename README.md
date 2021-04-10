@@ -17,3 +17,8 @@ sample : [type] activity -> [update] add comment README.md.#
 `add` is new function.#
 `fix` is catch bug.#
 `etc` is other.#
+
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc55&theme=radical&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruffalolavoisier&theme=radical&layout=compact" />
+</p>
