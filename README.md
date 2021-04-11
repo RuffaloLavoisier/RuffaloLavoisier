@@ -1,4 +1,4 @@
-# `God gave life-giving power for the earth, which we call coding.`
+# God gave life-giving power for the earth, which we call coding.
 
 ## How to read ?
 
