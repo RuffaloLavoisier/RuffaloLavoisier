@@ -1,6 +1,8 @@
-# God gave life-giving power for the earth, which we call coding.
-
 ## How to read ?
+
+Hello, have a nice day !  
+
+`God gave life-giving power for the earth, which we call coding.`  
 
 sample : [type] activity -> [update] add comment README.md.  
 `update` is Give a shine.  
