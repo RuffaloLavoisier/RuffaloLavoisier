@@ -1,4 +1,4 @@
-## Hello, have a nice day !  
+## have a nice day !  
 
 `God gave life-giving power for the earth, which we call coding.`  
 
