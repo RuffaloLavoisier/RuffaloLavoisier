@@ -1,7 +1,8 @@
-## have a nice day !  
+## Have a nice day !  
 
 `God gave life-giving power for the earth, which we call coding.`  
 
+My [Tech-Blog and Record Blog](https://ruffalolavoisier.github.io/DayOneRecord/).
 
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruffalolavoisier&theme=radical&layout=compact" />
