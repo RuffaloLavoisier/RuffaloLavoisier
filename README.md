@@ -5,7 +5,7 @@
 
   - ⚡ Fun fact **I look at the code with one hand and eat bread with one hand.**<br>
   
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=ruffalolavoisier&show_icons=true&theme=react&count_private=true&hide=commits,stars&hide_border=false&border_color=61dafb&hide_border=false"/>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=ruffalolavoisier&show_icons=true&theme=react&count_private=true,stars&hide_border=false&border_color=61dafb&hide_border=false"/>
 <br>
 <img align="center" style="margin-left: auto; margin-right: auto; display: block;" src="https://user-images.githubusercontent.com/1215497/123832978-4b243180-d8dc-11eb-9aeb-f9a74f4de224.gif"/>
   <br>
